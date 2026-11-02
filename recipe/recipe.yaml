@@ -1,5 +1,5 @@
 context:
-  version: 3.5.0
+  version: "4.0.1"
 
 package:
   name: graphql-language-service-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/graphql-language-service-cli/-/graphql-language-service-cli-${{ version }}.tgz
-  sha256: d6af30c436fdb52ef86c42fdd7ab2bf0c3371bb6fdfdc53ebe5b7dd054b9a59d
+  sha256: b35f5b32374abb617694de942dde22b63fe59d1d11d5a469d97a79f53c853360
 
 build:
   number: 0
